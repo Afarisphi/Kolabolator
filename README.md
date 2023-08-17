@@ -4,3 +4,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
+Miko Candra Winata, Ingin ikut menjadi volunter.
